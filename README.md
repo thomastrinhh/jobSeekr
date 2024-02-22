@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Badges
+
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{thomastrinhh}/{JobSeekr})
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
