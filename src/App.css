@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  margin-top: 120px; /* NOTE: Increase for more top padding */
+}
+
+/* Container Styles */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.center-container {
+  text-align: center;
+  margin-top: 25px; 
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  max-width: 800px;
+  background-color: rgb(255, 255, 255);
+}
+
+/* Add a new class for the image container */
+.image-container {
+  max-width: 20%; /* Set your desired maximum width for the container */
+  margin: 20px auto; /* Center the container horizontally and add some margin */
+}
+
+/* Add styles for images inside the container */
+.image-container img {
+  width: 100%; /* Make the image inside the container take up 100% of the container width */
+  height: auto; /* Maintain the aspect ratio of the image */
+  display: block; /* Remove any default spacing below the image */
+}
+
+
+
+/* Header Styles */
+.header {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Navigation List Styles */
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-list li {
+  padding: 15px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.nav-list li:hover {
+  background-color: #f0f0f0;
+}
+
+.nav-list li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Active Link Styles */
+.nav-list li.active {
+  background-color: #007bff;
+}
+
+.nav-list li.active a {
+  color: #fff;
+}
+
+/* Logo Styles */
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  width: 500px;
+  border-radius: 0px;
+}
+
+/* Section Styles */
+.section {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(250, 250, 250);
+  justify-content: space-between;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Input Styles */
+.italic-input {
+  font-style: italic;
+  text-align: center;
+  width: 20%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+/* Button Styles */
+.generate-button {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.generate-button:hover {
+  background-color: #0056b3;
+}
+
+/* Internship Container Styles */
+.internship-container {
+  text-align: center;
+  margin: 20px auto;
+  padding: 0px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  max-width: 1300px;
+  background-color: rgb(255, 255, 255, 1);
+}
+
+/* Internship Table Styles */
+.internship-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.internship-table th,
+.internship-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.internship-table th {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.internship-table th:nth-child(1) {
+  width: 12%;
+}
+
+.internship-table th:nth-child(2) {
+  width: 17%;
+}
+
+.internship-table th:nth-child(3) {
+  width: 20%;
+}
+
+.internship-table th:nth-child(4) {
+  width: 15%;
+}
+
+.internship-table th:nth-child(5) {
+  width: 10%;
+}
+
+.internship-table th:nth-child(6) {
+  width: 30%;
+}
