@@ -1,7 +1,7 @@
 # Badges
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/thomastrinhh/JobSeekr/badge)](https://securityscorecards.dev/viewer/?uri=github.com/thomastrinhh/JobSeekr)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ossf/scorecard/badge)](https://securityscorecards.dev/viewer/?uri=github.com/ossf/scorecard)
+
 
 
 ## Getting Started with Create React App
