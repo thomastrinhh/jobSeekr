@@ -1,7 +1,7 @@
 # Badges
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/thomastrinhh/JobSeekr/badge)](https://securityscorecards.dev/viewer/?uri=github.com/thomastrinhh/JobSeekr)
-
+<a href="https://www.bestpractices.dev/projects/8433"><img src="https://www.bestpractices.dev/projects/8433/badge"></a>
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8433/badge)](https://www.bestpractices.dev/projects/8433)
 
 ## Getting Started with Create React App
