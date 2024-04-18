@@ -4,6 +4,7 @@
 <a href="https://www.bestpractices.dev/projects/8433"><img src="https://www.bestpractices.dev/projects/8433/badge?branch=master&kill_cache=1"></a>
 
 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
