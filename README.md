@@ -3,7 +3,8 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/thomastrinhh/JobSeekr/badge)](https://securityscorecards.dev/viewer/?uri=github.com/thomastrinhh/JobSeekr)
 <a href="https://www.bestpractices.dev/projects/8433"><img src="https://www.bestpractices.dev/projects/8433/badge?branch=master&kill_cache=1"></a>
 
-
+## CEN 4930 Full Stack Development Project
+This project was created as part of the coursework for the CEN 4930 Full Stack Development class. It is a full-stack web application developed using technologies such as Node.js, mySQL, and ReactJS. The project focuses on building a job search application that utilizes the JSearch API.
 
 ## Getting Started with Create React App
 
